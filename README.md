@@ -1,7 +1,9 @@
 # Tech & Design conferences list
 A selection of european conferences.
 
-## Topics
+**Note:** please send a pull request to suggest more.
+
+### Topics
 
   - *Technology*
   - *Interaction*
@@ -14,7 +16,7 @@ A selection of european conferences.
   - *Strategic Design*
   - *Front-End*
 
-## The list
+### The list
 
 - [Resonate](http://resonate.io/) | Art, Music, Technology.
 - [Ars Electronica](http://www.aec.at/) | Art, Technology.
@@ -25,4 +27,3 @@ A selection of european conferences.
 - [Smashing Conference](http://smashingconf.com/) | User Experience, Technology, Web, Front-End.
 - [Intersection Conference](http://2016.intersectionconf.com/) | Strategic Design.
 
-**Note:** please send a pull request to suggest more.
