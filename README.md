@@ -1,7 +1,7 @@
 # Tech & Design conferences list
 A selection of european conferences.
 
-**Note:** please send a pull request to suggest more.
+**Note:** send a pull request to suggest more.
 
 ### Topics
 
