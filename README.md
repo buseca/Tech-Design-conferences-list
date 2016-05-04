@@ -1,16 +1,16 @@
 # Tech & Design conferences list
 A list of european conferences about:
 
- * - Technology*
-  - Interaction
-  - User Experience
-  - Art
-  - Music
-  - Digital
-  - Web
-  - Design
-  - Strategic Design
-  *- Front-End*
+  - *Technology*
+  - *Interaction*
+  - *User Experience*
+  - *Art*
+  - *Music*
+  - *Digital*
+  - *Web*
+  - *Design*
+  - *Strategic Design*
+  - *Front-End*
 
 ## The list
 
