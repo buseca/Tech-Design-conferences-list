@@ -1,7 +1,7 @@
 # Tech & Design conferences list
 A list of european conferences about:
 
-  - Technology
+ * - Technology
   - Interaction
   - User Experience
   - Art
@@ -10,17 +10,17 @@ A list of european conferences about:
   - Web
   - Design
   - Strategic Design
-  - Front-End
+  - Front-End*
 
 ## The list
 
-- [Resonate](http://resonate.io/), Art, Music, Technology.
-- [Ars Electronica](http://www.aec.at/), Art, Technology.
-- [FITC](http://fitc.ca/), Design, Technology.
-- [Push Conference](http://push-conference.com/), User Experience, Interaction, Digital, Web.
-- [User Experience Lisbon](https://www.ux-lx.com/), User Experience.
-- [Web Visions](http://www.webvisionsevent.com/), User Experience, Technology, Web.
-- [Smashing Conference](http://smashingconf.com/), User Experience, Technology, Web, Front-End.
-- [Intersection Conference](http://2016.intersectionconf.com/), Strategic Design.
+- [Resonate](http://resonate.io/) | Art, Music, Technology.
+- [Ars Electronica](http://www.aec.at/) | Art, Technology.
+- [FITC](http://fitc.ca/) | Design, Technology.
+- [Push Conference](http://push-conference.com/) | User Experience, Interaction, Digital, Web.
+- [User Experience Lisbon](https://www.ux-lx.com/) | User Experience.
+- [Web Visions](http://www.webvisionsevent.com/) | User Experience, Technology, Web.
+- [Smashing Conference](http://smashingconf.com/) | User Experience, Technology, Web, Front-End.
+- [Intersection Conference](http://2016.intersectionconf.com/) | Strategic Design.
 
 **Note:** please send a pull request to suggest more.
