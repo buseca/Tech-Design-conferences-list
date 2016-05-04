@@ -14,6 +14,7 @@ A selection of european conferences.
   - *Web*
   - *Design*
   - *Strategic Design*
+  - *Service Design*
   - *Front-End*
 
 ### The list
@@ -26,4 +27,5 @@ A selection of european conferences.
 - [Web Visions](http://www.webvisionsevent.com/) | User Experience, Technology, Web.
 - [Smashing Conference](http://smashingconf.com/) | User Experience, Technology, Web, Front-End.
 - [Intersection Conference](http://2016.intersectionconf.com/) | Strategic Design.
+- [Service Design Conference](https://www.service-design-network.org) | Service Design, Strategic Design.
 
