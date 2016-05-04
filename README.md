@@ -1,5 +1,7 @@
 # Tech & Design conferences list
-A list of european conferences about:
+A selection of european conferences.
+
+## Topics
 
   - *Technology*
   - *Interaction*
