@@ -16,6 +16,7 @@ A selection of european conferences.
   - *Strategic Design*
   - *Service Design*
   - *Front-End*
+  - *Artificial Intelligence*
 
 ### The list
 
@@ -28,4 +29,5 @@ A selection of european conferences.
 - [Smashing Conference](http://smashingconf.com/) | User Experience, Technology, Web, Front-End.
 - [Intersection Conference](http://2016.intersectionconf.com/) | Strategic Design.
 - [Service Design Conference](https://www.service-design-network.org) | Service Design, Strategic Design.
+- [Nucl.ai Conference](http://events.nucl.ai/) | Technology, Artificial Intelligence.
 
