@@ -30,4 +30,5 @@ A selection of european conferences.
 - [Intersection Conference](http://2016.intersectionconf.com/) | Strategic Design.
 - [Service Design Conference](https://www.service-design-network.org) | Service Design, Strategic Design.
 - [Nucl.ai Conference](http://events.nucl.ai/) | Technology, Artificial Intelligence.
+- [Bump Festival](http://bump-festival.be) | Art, Technology, Interaction, Digital.
 
