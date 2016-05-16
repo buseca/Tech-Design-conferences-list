@@ -1,7 +1,7 @@
 # Tech & Design conferences list
 A selection of european conferences.
 
-**Note:** send a pull request to suggest more.
+[Visit it on GitHub] (https://github.com/buseca/Tech-Design-conferences-list) and send a pull request to suggest more.
 
 ### Topics
 
