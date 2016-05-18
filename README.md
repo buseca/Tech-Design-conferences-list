@@ -31,4 +31,5 @@ A selection of european conferences.
 - [Service Design Conference](https://www.service-design-network.org) | Service Design, Strategic Design.
 - [Nucl.ai Conference](http://events.nucl.ai/) | Technology, Artificial Intelligence.
 - [Bump Festival](http://bump-festival.be) | Art, Technology, Interaction, Digital.
+- [Punto y Raya Festival](http://www.puntoyrayafestival.com/en/index.php) | Art, Digital.
 
